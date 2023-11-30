@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/DouglasCollege(Apr26-23)/Fall2023/CSIS2175-F23/Lectures/JDBCRequiredFiles/commons-lang3-3.9.jar"/>
+	<classpathentry kind="lib" path="C:/DouglasCollege(Apr26-23)/Fall2023/CSIS2175-F23/Lectures/JDBCRequiredFiles/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/DouglasCollege(Apr26-23)/Fall2023/CSIS2175-F23/Lectures/JDBCRequiredFiles/hsqldb-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/DouglasCollege(Apr26-23)/Fall2023/CSIS2175-F23/Lectures/JDBCRequiredFiles/jackcess-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/DouglasCollege(Apr26-23)/Fall2023/CSIS2175-F23/Lectures/JDBCRequiredFiles/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
