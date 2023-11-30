@@ -9,6 +9,7 @@ public class EmployeeDemo {
 		Connection conn = null;
 		Statement stat = null;
 		ResultSet rs = null;
+		method();
 		
 		try {
 			Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");			
@@ -74,6 +75,10 @@ public class EmployeeDemo {
 				sqex.printStackTrace();
 			}
 		}
+	}
+	
+	public static void method() {
+		
 	}
 
 }
