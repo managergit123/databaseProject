@@ -9,12 +9,13 @@ public class EmployeeDemo {
 		Connection conn = null;
 		Statement stat = null;
 		ResultSet rs = null;
+		method();
 		
 		try {
 			Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");			
 		}
 		catch(ClassNotFoundException ex) {
-			System.out.println("Problem in loading MS Access JDBC driver");
+			System.out.println("HEllo Problem in loading MS Access JDBC driver");
 		}
 		
 		try {
@@ -74,6 +75,10 @@ public class EmployeeDemo {
 				sqex.printStackTrace();
 			}
 		}
+	}
+	
+	public static void method() {
+		
 	}
 
 }
